@@ -32,6 +32,6 @@ O projeto é composto por um ecossistema inteligente de scripts para garantir fl
 Clone o repositório e conceda permissão de execução aos scripts:
 
 ```bash
-git clone <url-do-seu-repositorio> ghost-crack
+git clone https://github.com/Deepaudit/GhostCrack.git
 cd ghost-crack
 chmod +x GhostCrack.sh bash-cracker.sh encode-decode.sh
